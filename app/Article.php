@@ -9,7 +9,7 @@ class Article extends Model
     protected $articles = 'articles';
 
     protected $fillable = [
-        'title', 'description', 'picture'
+        'title', 'description'
     ];
 
 
